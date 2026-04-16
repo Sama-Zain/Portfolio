@@ -16,6 +16,10 @@ header{
     left: 0;
     z-index: 999;
 }
+a{
+    text-decoration: none;
+    color: rgb(4, 4, 32);
+}
 .logo{
     text-decoration: none;
     font-weight: 900;
